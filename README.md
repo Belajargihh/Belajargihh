@@ -23,13 +23,8 @@ Here are some ideas to get you started:
 
 ![Welcome](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxjbHU5NmtlemhoMno4ZnU2eDd3Y2ljaHg0bHd4cjkyMHBrNDZtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3brYLms1bhv2/giphy.gif)
 
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Belajargihh/Belajargihh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Belajargihh/Belajargihh/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Belajargihh/Belajargihh/output/pacman-contribution-graph.svg">
 </picture>
-
-###
