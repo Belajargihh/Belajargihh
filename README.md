@@ -1,6 +1,6 @@
 ## Yoooo Whaatsupp
 
-![Header](github-header-image)
+![Header]([github-header-image](https://github.com/Belajargihh/Belajargihh/blob/main/github-header-image.png))
 <!--
 **Belajargihh/Belajargihh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
